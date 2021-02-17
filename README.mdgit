@@ -1,0 +1,1 @@
+"# Crud"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/AngelCernas/Crud.gitgit push -u origin main
